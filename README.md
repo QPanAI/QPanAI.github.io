@@ -1,4 +1,5 @@
 # QPanAI.github.io
 
-- DAT: Datesets
+- BOOK: Book
+- DAT: Dateset
 - MS: Microservice
